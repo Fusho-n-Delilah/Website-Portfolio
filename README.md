@@ -2,7 +2,7 @@
 A repository for listing my static web site and landing page professional experience
 
 
-<a target="https://azavewellness.com/">AZ Ave Wellness</a>
+<a href="https://azavewellness.com/">AZ Ave Wellness</a>
 
 Touch of Class	https://yumacatspa.com/
 Chino Valley Memorial	https://chinovalleymemorial.com
