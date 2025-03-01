@@ -36,8 +36,6 @@ Websites
 
 <a href="https://yumascooterstorer.com">Desert Mobility</a>
 
-<a href="https://racefuel.com/">RaceFuel</a>
-
 <a href="https://MerryHeartInc.com">Merry Hearts</a>
 
 Truck Mates
