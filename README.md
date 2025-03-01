@@ -1,22 +1,32 @@
 # Website-Portfolio
 A repository for listing my static web site and landing page professional experience
 
-
+Websites
+--------
+<a href="https://truckmatesyuma.com">Truck Mates</a>
+<a href="https://revivalfix.com">Revival Fix</a>
+<a href="https://pagosaarmorlocksmith.com/">Pagosa Armor Locksmith</a>
+  - a clone of their previous wordpress site design
+<a href="https://yumapartyvenue.com">The Grounds</a>
+<a href="https://spanishtrailsresort.com">Spanish Trails</a>
+<a href="https://sundancefla.com">Sundance 55+ Community</a>
+<a href="https://prescottpool.com">Prescott Pool & Spa</a>
+<a href="https://core-e-g.com">Core Engineering	</a>
+<a href="https://orchardgardensyuma.com/">Orchard Gardens</a>
+  - a clone of their previous wordpress site design
+<a href="https://mgmprescott.com">MGM Prescott</a>
+  - the prescott branch of the company I was employed at
 <a href="https://azavewellness.com/">AZ Ave Wellness</a>
+<a href="https://yumacatspa.com/">Touch of Class</a>
+<a href="https://chinovalleymemorial.com">Chino Valley Memorial</a>
+<a href="https://priorityseed.com">Priority Seed</a>
+<a href="https://yumascooterstorer.com">Desert Mobility</a>
+<a href="https://racefuel.com/">RaceFuel</a>
+<a href="https://MerryHeartInc.com">Merry Hearts</a>
+ 
+	
+	
+	
+	
+	
 
-Touch of Class	https://yumacatspa.com/
-Chino Valley Memorial	https://chinovalleymemorial.com
-Core Engineering	https://core-e-g.com
-Merry Hearts	https://MerryHeartInc.com
-MGM Prescott	https://mgmprescott.com
-Orchard Garden	https://orchardgardensyuma.com/
-Pagosa Armor Locksmith	https://pagosaarmorlocksmith.com/
-Prescott Pool & Spa	https://prescottpool.com
-Priority  Seed	https://priorityseed.com
-Revival Fix	https://azavewellness.com/
-Spanish Trails	https://spanishtrailsresort.com
-Sundance 55+ Community	https://sundancefla.com
-Truck Mates	https://truckmatesyuma.com
-Desert Mobility	https://yumascooterstorer.com
-RaceFuel	https://racefuel.com/
-The Grounds	https://yumapartyvenue.com
