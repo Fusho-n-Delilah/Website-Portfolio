@@ -69,15 +69,21 @@ Spanish Trails Resort & RV Park
 
 Sundance Fla 55+ Community
 --------------------------
-![Sundance-Fla](https://github.com/user-attachments/assets/9ae31917-bf04-49bf-a916-f5998343650e)
+![image](https://github.com/user-attachments/assets/dac8510e-5b63-4e27-9a42-d9fa4cbfca20)
+
+![image](https://github.com/user-attachments/assets/51dedf2a-1554-416c-8d80-aaac260ce312)
+
+Prescott Pool & Spa
+--------------------
+![image](https://github.com/user-attachments/assets/46355ab0-c3a5-4f3b-b0f7-7ac50b772b04)
+
+![image](https://github.com/user-attachments/assets/3edcc855-e23d-4500-b022-2c0f24c9b8ce)
 
 Core Engineering Group
 ----------------------
 ![core-e-g](https://github.com/user-attachments/assets/5be0fcdf-51d7-4f10-8d94-a97a92077f4c)
 
-Prescott Pool & Spa
---------------------
-![prescott-pool](https://github.com/user-attachments/assets/7a5360fe-4caf-4e8a-97ac-9df905efe34c)
+
 
 
 
