@@ -39,7 +39,32 @@ Websites
 <a href="https://racefuel.com/">RaceFuel</a>
 
 <a href="https://MerryHeartInc.com">Merry Hearts</a>
- 
+
+#Truck Mates
+![image](https://github.com/user-attachments/assets/7f528d6b-4b28-40b4-b1f2-0408372f0700)
+
+#Revival Fix
+![image](https://github.com/user-attachments/assets/3246bf78-62c1-45d7-9df0-9190e9cd280a)
+![image](https://github.com/user-attachments/assets/fb4948a8-686f-4942-ba27-b3f9b74602ff)
+![revival-fix](https://github.com/user-attachments/assets/14c1053b-5bf2-40fd-a117-6d25efe5fad5)
+
+#Pagosa Armor Locksmith
+![image](https://github.com/user-attachments/assets/249abff3-07eb-41ab-8587-75b4858e8e18)
+
+#The Grounds
+![image](https://github.com/user-attachments/assets/80d80265-28ef-4a79-a009-cf0f33a7ab41)
+![image](https://github.com/user-attachments/assets/25f27699-081b-4486-aca0-daee66d6e8c4)
+![the-grounds](https://github.com/user-attachments/assets/f7df4ac5-2252-43d9-b92d-535ec12c5050)
+![image](https://github.com/user-attachments/assets/19ef8131-cd2d-4ca6-8ab8-dcd124206589)
+
+#Spanish Trails Resort & RV Park
+![image](https://github.com/user-attachments/assets/25924623-5789-446c-9551-81d6a346eb72)
+
+#Core Engineering Group
+![core-e-g](https://github.com/user-attachments/assets/5be0fcdf-51d7-4f10-8d94-a97a92077f4c)
+
+
+
 	
 	
 	
