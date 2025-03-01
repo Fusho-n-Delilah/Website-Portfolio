@@ -1,5 +1,5 @@
 # Website-Portfolio
-A repository for listing my static web site and landing page professional experience
+A repository for listing my static web site and landing page professional experience. Links take you to the actual website to test responsive design. Please scroll down to see photos and gifs of some of my favorites! thank you for looking!
 
 Websites
 --------
@@ -40,28 +40,45 @@ Websites
 
 <a href="https://MerryHeartInc.com">Merry Hearts</a>
 
-#Truck Mates
+Truck Mates
+-----------
 ![image](https://github.com/user-attachments/assets/7f528d6b-4b28-40b4-b1f2-0408372f0700)
 
-#Revival Fix
+Revival Fix
+-----------
 ![image](https://github.com/user-attachments/assets/3246bf78-62c1-45d7-9df0-9190e9cd280a)
+
 ![image](https://github.com/user-attachments/assets/fb4948a8-686f-4942-ba27-b3f9b74602ff)
+
 ![revival-fix](https://github.com/user-attachments/assets/14c1053b-5bf2-40fd-a117-6d25efe5fad5)
 
-#Pagosa Armor Locksmith
+Pagosa Armor Locksmith
+-----------------------
 ![image](https://github.com/user-attachments/assets/249abff3-07eb-41ab-8587-75b4858e8e18)
 
-#The Grounds
+The Grounds
+-----------
 ![image](https://github.com/user-attachments/assets/80d80265-28ef-4a79-a009-cf0f33a7ab41)
 ![image](https://github.com/user-attachments/assets/25f27699-081b-4486-aca0-daee66d6e8c4)
 ![the-grounds](https://github.com/user-attachments/assets/f7df4ac5-2252-43d9-b92d-535ec12c5050)
 ![image](https://github.com/user-attachments/assets/19ef8131-cd2d-4ca6-8ab8-dcd124206589)
 
-#Spanish Trails Resort & RV Park
+Spanish Trails Resort & RV Park
+-------------------------------
 ![image](https://github.com/user-attachments/assets/25924623-5789-446c-9551-81d6a346eb72)
 
-#Core Engineering Group
+Sundance Fla 55+ Community
+--------------------------
+![Sundance-Fla](https://github.com/user-attachments/assets/9ae31917-bf04-49bf-a916-f5998343650e)
+
+Core Engineering Group
+----------------------
 ![core-e-g](https://github.com/user-attachments/assets/5be0fcdf-51d7-4f10-8d94-a97a92077f4c)
+
+Prescott Pool & Spa
+--------------------
+![prescott-pool](https://github.com/user-attachments/assets/7a5360fe-4caf-4e8a-97ac-9df905efe34c)
+
 
 
 
