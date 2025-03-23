@@ -26,8 +26,6 @@ Websites
 <a href="https://mgmprescott.com">MGM Prescott</a>
   - the prescott branch of the company I was employed at
 
-<a href="https://azavewellness.com/">AZ Ave Wellness</a>
-
 <a href="https://yumacatspa.com/">Touch of Class</a>
 
 <a href="https://chinovalleymemorial.com">Chino Valley Memorial</a>
